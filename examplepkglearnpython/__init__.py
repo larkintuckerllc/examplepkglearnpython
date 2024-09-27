@@ -1,0 +1,2 @@
+"""Provide an example package."""
+
